@@ -31,3 +31,23 @@ Hyderabad is a major city located in the southern part of India. It serves as th
 1."We can't solve today's problems with the mentality that created them" - *Albert Enstein*
 
 2."I could only achieve success in my life through self-discipline, and I applied it until my wish and my will became one" - *Nikola Tesla*
+
+# Code fencing
+**Why isn't my alphabetical input validation working?**
+You can use the input event which will also handle copy/pastes in to the input element.
+[Link to stackover flow](https://stackoverflow.com/questions/77040719/why-isnt-my-alphabetical-input-validation-working)
+
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+
+```
+[Click here](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
