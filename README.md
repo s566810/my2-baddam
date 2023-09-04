@@ -24,4 +24,9 @@ Hyderabad is a major city located in the southern part of India. It serves as th
 |1.Cricket        |Improves Health      |2hr         |
 |2.Chess          |Develops Perspective |1hr         |
 |3.Basketball     |Improves Flexibility |3hr         |
-|4.carroms        |Good Game            |1hr         |      
+|4.carroms        |Good Game            |1hr         |    
+
+----
+# Pithy Quotes.
+1."We can't solve today's problems with the mentality that created them" - *Albert Enstein*
+2."I could only achieve success in my life through self-discipline, and I applied it until my wish and my will became one" - *Nikola Tesla*
