@@ -15,4 +15,4 @@ Hyderabad is a major city located in the southern part of India. It serves as th
     *Biryani
     *Bhel Puri
 
-[Please click for MyStatsMyStats](MyStats.md)
+[Please click for MyStats](MyStats.md)
