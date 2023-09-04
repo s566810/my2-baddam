@@ -16,3 +16,12 @@ Hyderabad is a major city located in the southern part of India. It serves as th
     *Bhel Puri
 
 [Please click for MyStats](Mystats.md)
+
+----
+# Table For Sport that i Recommend
+|Name of the Sport|Why i Recommend sport| Total hours|
+|----------------------------------------------------|
+|1.Cricket        |Improves Health      |2hr         |
+|2.Chess          |Develops Perspective |1hr         |
+|3.Basketball     |Improves Flexibility |3hr         |
+|4.carroms        |Good Game            |1hr         |      
