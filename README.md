@@ -6,13 +6,13 @@ Hyderabad is a major city located in the southern part of India. It serves as th
  
  -------------------------------------------------------
 1.Favorite vacation spot -hyderabad
-     1.wonderla
-     2.Golkonda Fort
-     3.Charminar
+    1.wonderla
+    2.Golconda
+    3.Charminar
      
 -list of dishes of food in my favorite spot
-      -chole bhature
-      -Dum Biryani
-      -pani puri     
+    -Biryani
+    -chole bature
+    -pani puri  
 
-      please click  [MyStats](MyStats.md) to check out my status.
+      please click [MyStats](MyStats.md) to check out my status.
