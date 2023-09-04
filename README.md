@@ -10,7 +10,7 @@ Hyderabad is a major city located in the southern part of India. It serves as th
     2.Golconda
     3.Charminar
 
-List of three dishes in vacation
+    Three dishes in vacation
     *pani puri
     *Biryani
     *Bhel Puri
