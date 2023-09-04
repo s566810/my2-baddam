@@ -50,4 +50,4 @@ You can use the input event which will also handle copy/pastes in to the input e
 <iframe name="my-iframe" src="iframe.php"></iframe>
 
 ```
-[Click here](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
+[Click here for CSS](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
