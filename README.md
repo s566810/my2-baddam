@@ -9,10 +9,10 @@ Hyderabad is a major city located in the southern part of India. It serves as th
     1.wonderla
     2.Golconda
     3.Charminar
-     
--list of dishes of food in my favorite spot
-    -Biryani
-    -chole bature
-    -pani puri  
+
+List of three dishes in vacation
+    *pani puri
+    *Biryani
+    *Bhel Puri
 
       please click [MyStats](MyStats.md) to check out my status.
